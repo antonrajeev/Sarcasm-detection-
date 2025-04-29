@@ -1,4 +1,4 @@
-##"Evaluating the Performance of Embedding Techniques for Sarcasm Detection in News Headlines"
+##Evaluating the Performance of Embedding Techniques for Sarcasm Detection in News Headlines
 
 
 
