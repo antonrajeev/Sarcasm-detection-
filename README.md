@@ -76,13 +76,13 @@ Download the dataset from [Kaggle](https://www.kaggle.com/datasets/rmisra/news-h
 
 ### 4. Run preprocessing
 ```python
-python preprocess.py
+sarcasm_detection_2.ipynb
 ```
 
 ### 5. Train models
 ```python
-python train_ml.py    # For SVM, RF, LR
-python train_dl.py    # For LSTM, BiLSTM
+1   # For SVM, RF, LR
+   # For LSTM, BiLSTM
 ```
 
 ---
