@@ -81,8 +81,10 @@ sarcasm_detection_2.ipynb
 
 ### 5. Train models
 ```python
-1   # For SVM, RF, LR
-   # For LSTM, BiLSTM
+2- BERT Analysis.ipynb
+3- RoBERTa Analysis.ipynb
+4- FastText Analysis.ipynb  
+  
 ```
 
 ---
