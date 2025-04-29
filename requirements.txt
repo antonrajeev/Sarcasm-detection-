@@ -1,0 +1,6 @@
+Python (v3.8+)
+Transformers (HuggingFace)
+Scikit-learn
+TensorFlow / Keras
+NLTK
+Matplotlib / Seaborn
